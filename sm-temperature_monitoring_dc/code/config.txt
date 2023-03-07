@@ -1,0 +1,1 @@
+{"machine": {"name": "Machine1"}, "sensing": {"adc": "AHT20"}, "threshold": {"t1": "30"}}

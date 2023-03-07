@@ -1,0 +1,1 @@
+{'Location': 'Machine1', 'Threshold': '30', 'Sensor': 'AHT20'}

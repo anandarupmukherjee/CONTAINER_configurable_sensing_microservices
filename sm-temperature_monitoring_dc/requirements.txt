@@ -1,0 +1,10 @@
+rpi.gpio 
+bcr-libraries
+spidev
+tomli
+smbus2
+PyMLX90614
+w1thermsensor
+board
+adafruit-circuitpython-ahtx0
+paho-mqtt
